@@ -10,6 +10,4 @@ C:\Users\elagerkr\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1
 C:\Users\elagerkr\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.dll
 C:\Users\elagerkr\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.pdb
 C:\Users\elagerkr\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.genruntimeconfig.cache
-C:\Users\elagerkr\source\repos\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\elagerkr\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CoreCompileInputs.cache
-C:\Users\elagerkr\source\repos\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CopyComplete
