@@ -20,7 +20,7 @@ namespace AdventOfCode
             var max = seatIds.Max(x => x);
             var min = seatIds.Min(x => x);
 
-            var mySeat = Enumerable.Range(min, max + 1)
+            var mySeat = Enumerable.Range(min, max - min)
                  .Except(seatIds)
                  .Min();
 
