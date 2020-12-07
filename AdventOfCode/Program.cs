@@ -32,10 +32,28 @@ namespace AdventOfCode
             Console.WriteLine("Day 4 Task 2: " + day4Task.TaskTwo());
             */
 
-            /*Day 5*/
+            /*Day 5
             Day5 day5Task = new Day5();
             Console.WriteLine("Day 5 Task 1: " + day5Task.TaskOne());
             Console.WriteLine("Day 5 Task 2: " + day5Task.TaskTwo());
+            */
+
+            /*Day 5
+            Day5 day5Task = new Day5();
+            Console.WriteLine("Day 5 Task 1: " + day5Task.TaskOne());
+            Console.WriteLine("Day 5 Task 2: " + day5Task.TaskTwo());
+            */
+
+            /*Day6
+            Day6 day6Task = new Day6();
+            Console.WriteLine("Day 6 Task 1: " + day6Task.TaskOne());
+            Console.WriteLine("Day 6 Task 2: " + day6Task.TaskTwo());
+            */
+
+            /*Day7*/
+            Day7 day7Task = new Day7();
+            Console.WriteLine("Day 7 Task 1: " + day7Task.TaskOne());
+            Console.WriteLine("Day 7 Task 2: " + day7Task.TaskTwo());
 
         }
     }
